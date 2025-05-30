@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://bn88k5qnt75ml"]
+
+[ext_resource type="FontFile" uid="uid://cpld27ljl4wa" path="res://assets/AllTheWayToTheSun-o2O0.ttf" id="1_wf4hb"]
+
+[resource]
+default_font = ExtResource("1_wf4hb")
+default_font_size = 50

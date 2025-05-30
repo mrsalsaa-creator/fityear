@@ -1,0 +1,85 @@
+[gd_scene load_steps=5 format=3 uid="uid://cj5wflgeluoos"]
+
+[ext_resource type="Theme" uid="uid://bn88k5qnt75ml" path="res://assets/ui_theme.tres" id="1_2e0ks"]
+[ext_resource type="Script" uid="uid://bi1ea0rej2yvy" path="res://scripts/home_page.gd" id="1_yb10l"]
+[ext_resource type="Shader" uid="uid://0d1g53s5iaba" path="res://shaders/home_page.gdshader" id="2_faivq"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_caq2i"]
+shader = ExtResource("2_faivq")
+
+[node name="home_page" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_yb10l")
+
+[node name="bg" type="ColorRect" parent="."]
+material = SubResource("ShaderMaterial_caq2i")
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="day" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+theme = ExtResource("1_2e0ks")
+theme_override_font_sizes/font_size = 100
+text = "Day X"
+horizontal_alignment = 1
+
+[node name="MarginContainer" type="MarginContainer" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_constants/margin_top = 200
+
+[node name="workout" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+theme = ExtResource("1_2e0ks")
+text = "Title of workout"
+horizontal_alignment = 1
+
+[node name="MarginContainer3" type="MarginContainer" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_constants/margin_top = 20
+
+[node name="workout_details" type="Label" parent="VBoxContainer"]
+layout_mode = 2
+focus_mode = 2
+theme = ExtResource("1_2e0ks")
+theme_override_font_sizes/font_size = 30
+text = "hi tehretretert"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="Button" type="Button" parent="VBoxContainer"]
+visible = false
+layout_mode = 2
+text = "Previous Day"
+
+[node name="MarginContainer2" type="MarginContainer" parent="VBoxContainer"]
+layout_mode = 2
+theme_override_constants/margin_top = 600
+
+[node name="ProgressBar" type="ProgressBar" parent="VBoxContainer/MarginContainer2"]
+custom_minimum_size = Vector2(600, 25)
+layout_mode = 2
+theme = ExtResource("1_2e0ks")
+theme_override_font_sizes/font_size = 35
