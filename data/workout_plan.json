@@ -2,1826 +2,1826 @@
   {
 	"day": 1,
 	"title": "Full Body Strength",
-	"description": "Bodyweight squats, push-ups, lunges, and plank holds."
+	"description": "Bodyweight squats, push-ups, lunges, and plank holds. Perform: 5 reps of squats, 3 reps of pushups, 4 reps of lunges, 10 seconds of plank."
   },
   {
 	"day": 2,
 	"title": "Cardio Endurance",
-	"description": "30-minute brisk walk or jog, high knees, and jumping jacks."
+	"description": "Brisk walk or jog, high knees, and jumping jacks. Perform: 15 seconds of high knees, 10 reps of jumping jacks, 10 minutes 10 seconds of activity."
   },
   {
 	"day": 3,
 	"title": "Lower Body Strength",
-	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits."
+	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits. Perform: 4 reps of split squats, 8 reps of glute bridges, 15 reps of calf raises, 15 seconds of wall sit."
   },
   {
 	"day": 4,
 	"title": "Upper Body Strength",
-	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps."
+	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps. Perform: 3 reps of diamond pushups, 5 reps of tricep dips, 5 reps of incline pushups, 10 reps of shoulder taps."
   },
   {
 	"day": 5,
 	"title": "Core Blast",
-	"description": "Plank variations, bicycle crunches, and leg raises."
+	"description": "Plank variations, bicycle crunches, and leg raises. Perform: 16 seconds of plank, 10 reps of bicycle crunches, 8 reps of leg raises."
   },
   {
 	"day": 6,
 	"title": "Mobility & Flexibility",
-	"description": "Yoga flow with hip openers and hamstring stretches."
+	"description": "Yoga flow with hip openers and hamstring stretches. Perform: 10 minutes 30 seconds of activity."
   },
   {
 	"day": 7,
 	"title": "Active Recovery",
-	"description": "Light stretching or a gentle walk."
+	"description": "Light stretching or a gentle walk. Perform: 5 minutes 35 seconds of activity."
   },
   {
 	"day": 8,
 	"title": "HIIT Session",
-	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x4 rounds."
+	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x rounds. Perform: 2 rounds of the given exercises."
   },
   {
 	"day": 9,
 	"title": "Plyometric Leg Day",
-	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops."
+	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops. Perform: 6 reps of jump squats, 6 reps of box jumps, 8 reps of lunges, 15 reps of calf hops."
   },
   {
 	"day": 10,
 	"title": "HIIT Upper Body",
-	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees."
+	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees. Perform: 3 reps of clapping pushups, 6 reps of tricep dips, 10 reps of shoulder taps, 5 reps of plank jack burpees."
   },
   {
 	"day": 11,
 	"title": "Cardio Intervals",
-	"description": "30s sprint in place, 30s walk x10 rounds."
+	"description": "Sprint in place and walk intervals. Perform: 5 rounds of the given exercises, 5 rounds of 25 seconds sprint and 25 seconds walk."
   },
   {
 	"day": 12,
 	"title": "Core & Balance",
-	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists."
+	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists. Perform: 13 seconds of single leg planks, 13 seconds of side planks, 15 reps of flutter kicks, 15 reps of russian twists."
   },
   {
 	"day": 13,
 	"title": "Yoga Flow",
-	"description": "Vinyasa sequence with sun salutations and deep stretching."
+	"description": "Vinyasa sequence with sun salutations and deep stretching. Perform: 16 minutes 5 seconds of activity."
   },
   {
 	"day": 14,
 	"title": "Rest Day",
-	"description": "Full rest or light walk."
+	"description": "Full rest or light walk. Perform: 6 minutes 10 seconds of activity."
   },
   {
 	"day": 15,
 	"title": "Circuit A",
-	"description": "3 rounds: 15 squats, 10 push-ups, 20 sit-ups, 15 lunges."
+	"description": "Rounds of squats, push-ups, sit-ups, lunges. Perform: 8 reps of squats, 5 reps of pushups, 10 reps of situps, 8 reps of lunges, 2 rounds of the given exercises."
   },
   {
 	"day": 16,
 	"title": "Circuit B",
-	"description": "3 rounds: 20 jumping jacks, 15 plank-to-push-up, 20 mountain climbers."
+	"description": "Rounds of jumping jacks, plank-to-push-up, mountain climbers. Perform: 15 reps of jumping jacks, 10 reps of plank to pushup, 15 reps of mountain climbers, 2 rounds of the given exercises."
   },
   {
 	"day": 17,
 	"title": "Circuit C",
-	"description": "3 rounds: 10 tricep dips, 15 glute bridges, 20 high knees."
+	"description": "Rounds of tricep dips, glute bridges, high knees. Perform: 8 reps of tricep dips, 15 reps of glute bridges, 25 seconds of high knees, 2 rounds of the given exercises."
   },
   {
 	"day": 18,
 	"title": "Circuit D",
-	"description": "3 rounds: 12 burpees, 20 calf raises, 15 bicycle crunches."
+	"description": "Rounds of burpees, calf raises, bicycle crunches. Perform: 8 reps of burpees, 20 reps of calf raises, 15 reps of bicycle crunches, 2 rounds of the given exercises."
   },
   {
 	"day": 19,
 	"title": "Circuit E",
-	"description": "3 rounds: 20-second side planks, 15 supermans, 20 Russian twists."
+	"description": "Rounds of side planks, supermans, Russian twists. Perform: 25 seconds of side planks, 15 reps of supermans, 20 reps of russian twists, 2 rounds of the given exercises."
   },
   {
 	"day": 20,
 	"title": "Stretch & Recover",
-	"description": "Full body stretching routine."
+	"description": "Full body stretching routine. Perform: 16 minutes 40 seconds of activity."
   },
   {
 	"day": 21,
 	"title": "Rest Day",
-	"description": "Light activity or rest."
+	"description": "Light activity or rest. Perform: 6 minutes 45 seconds of activity."
   },
   {
 	"day": 22,
 	"title": "Pilates Core",
-	"description": " Pilates 100s, roll-ups, and leg circles."
+	"description": "Pilates 100s, roll-ups, and leg circles. Perform: 26 seconds of pilates 100s, 6 reps of rollups, 11 reps of leg circles."
   },
   {
 	"day": 23,
 	"title": "Yoga Flow",
-	"description": "Hatha sequence focusing on flexibility."
+	"description": "Hatha sequence focusing on flexibility. Perform: 21 minutes 55 seconds of activity."
   },
   {
 	"day": 24,
 	"title": "Pilates Lower Body",
-	"description": "Side leg lifts, bridges, and donkey kicks."
+	"description": "Side leg lifts, bridges, and donkey kicks. Perform: 11 reps of side leg lifts, 11 reps of bridges, 16 reps of donkey kicks."
   },
   {
 	"day": 25,
 	"title": "Yoga Balance",
-	"description": "Tree pose, warrior III, and eagle pose."
+	"description": "Tree pose, warrior III, and eagle pose. Perform: 17 minutes 5 seconds of activity."
   },
   {
 	"day": 26,
 	"title": "Pilates Full Body",
-	"description": "Pilates push-ups, plank, and teaser prep."
+	"description": "Pilates push-ups, plank, and teaser prep. Perform: 6 reps of pilates pushups, 27 seconds of plank, 6 reps of teaser prep."
   },
   {
 	"day": 27,
 	"title": "Yoga Deep Stretch",
-	"description": "Long holds in hip and hamstring stretches."
+	"description": "Long holds in hip and hamstring stretches. Perform: 17 minutes 15 seconds of activity."
   },
   {
 	"day": 28,
 	"title": "Rest or Meditation",
-	"description": "Guided meditation or complete rest."
+	"description": "Guided meditation or complete rest. Perform: 12 minutes 20 seconds of activity."
   },
   {
 	"day": 29,
 	"title": "Dynamic Stretching",
-	"description": "Leg swings, arm circles, inchworms, and lunges with twist."
+	"description": "Leg swings, arm circles, inchworms, and lunges with twist. Perform: 11 reps of leg swings, 11 reps of arm circles, 6 reps of inchworms, 7 reps of lunges with twist."
   },
   {
 	"day": 30,
 	"title": "Core Focus",
-	"description": "Planks, dead bugs, and Superman holds."
+	"description": "Planks, dead bugs, and Superman holds. Perform: 29 seconds of plank, 11 reps of dead bugs, 24 seconds of superman holds."
   },
   {
 	"day": 31,
 	"title": "Static Stretching",
-	"description": "Hamstring, quad, calf, and shoulder stretches."
+	"description": "Hamstring, quad, calf, and shoulder stretches. Perform: 17 minutes 35 seconds of activity."
   },
   {
 	"day": 32,
 	"title": "Pilates Core",
-	"description": "Criss-cross, roll-ups, and scissor kicks."
+	"description": "Criss-cross, roll-ups, and scissor kicks. Perform: 11 reps of criss cross, 6 reps of rollups, 16 reps of scissor kicks."
   },
   {
 	"day": 33,
 	"title": "Yoga Flow",
-	"description": "Gentle sequence for full body flexibility."
+	"description": "Gentle sequence for full body flexibility. Perform: 17 minutes 45 seconds of activity."
   },
   {
 	"day": 34,
 	"title": "Light Cardio",
-	"description": "Brisk walk or easy jog 30 minutes."
+	"description": "Brisk walk or easy jog. Perform: 22 minutes 50 seconds of activity."
   },
   {
 	"day": 35,
 	"title": "Rest Day",
-	"description": "Recover and hydrate."
+	"description": "Recover and hydrate. Perform: 7 minutes 55 seconds of activity."
   },
   {
 	"day": 36,
 	"title": "Full Body Strength",
-	"description": "Bodyweight squats, push-ups, lunges, and plank holds."
+	"description": "Bodyweight squats, push-ups, lunges, and plank holds. Perform: 6 reps of squats, 4 reps of pushups, 5 reps of lunges, 20 seconds of plank."
   },
   {
 	"day": 37,
 	"title": "Cardio Endurance",
-	"description": "30-minute brisk walk or jog, high knees, and jumping jacks."
+	"description": "Brisk walk or jog, high knees, and jumping jacks. Perform: 26 seconds of high knees, 11 reps of jumping jacks, 13 minutes 5 seconds of activity."
   },
   {
 	"day": 38,
 	"title": "Lower Body Strength",
-	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits."
+	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits. Perform: 5 reps of split squats, 9 reps of glute bridges, 16 reps of calf raises, 26 seconds of wall sit."
   },
   {
 	"day": 39,
 	"title": "Upper Body Strength",
-	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps."
+	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps. Perform: 4 reps of diamond pushups, 6 reps of tricep dips, 6 reps of incline pushups, 11 reps of shoulder taps."
   },
   {
 	"day": 40,
 	"title": "Core Blast",
-	"description": "Plank variations, bicycle crunches, and leg raises."
+	"description": "Plank variations, bicycle crunches, and leg raises. Perform: 27 seconds of plank, 12 reps of bicycle crunches, 10 reps of leg raises."
   },
   {
 	"day": 41,
 	"title": "Mobility & Flexibility",
-	"description": "Yoga flow with hip openers and hamstring stretches."
+	"description": "Yoga flow with hip openers and hamstring stretches. Perform: 13 minutes 25 seconds of activity."
   },
   {
 	"day": 42,
 	"title": "Active Recovery",
-	"description": "Light stretching or a gentle walk."
+	"description": "Light stretching or a gentle walk. Perform: 8 minutes 30 seconds of activity."
   },
   {
 	"day": 43,
 	"title": "HIIT Session",
-	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x4 rounds."
+	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x rounds. Perform: 2 rounds of the given exercises."
   },
   {
 	"day": 44,
 	"title": "Plyometric Leg Day",
-	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops."
+	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops. Perform: 8 reps of jump squats, 8 reps of box jumps, 10 reps of lunges, 17 reps of calf hops."
   },
   {
 	"day": 45,
 	"title": "HIIT Upper Body",
-	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees."
+	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees. Perform: 5 reps of clapping pushups, 8 reps of tricep dips, 12 reps of shoulder taps, 7 reps of plank jack burpees."
   },
   {
 	"day": 46,
 	"title": "Cardio Intervals",
-	"description": "30s sprint in place, 30s walk x10 rounds."
+	"description": "Sprint in place and walk intervals. Perform: 5 rounds of the given exercises, 5 rounds of 43 seconds sprint and 43 seconds walk."
   },
   {
 	"day": 47,
 	"title": "Core & Balance",
-	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists."
+	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists. Perform: 24 seconds of single leg planks, 24 seconds of side planks, 17 reps of flutter kicks, 17 reps of russian twists."
   },
   {
 	"day": 48,
 	"title": "Yoga Flow",
-	"description": "Vinyasa sequence with sun salutations and deep stretching."
+	"description": "Vinyasa sequence with sun salutations and deep stretching. Perform: 19 minutes 0 seconds of activity."
   },
   {
 	"day": 49,
 	"title": "Rest Day",
-	"description": "Full rest or light walk."
+	"description": "Full rest or light walk. Perform: 9 minutes 5 seconds of activity."
   },
   {
 	"day": 50,
 	"title": "Circuit A",
-	"description": "3 rounds: 15 squats, 10 push-ups, 20 sit-ups, 15 lunges."
+	"description": "Rounds of squats, push-ups, sit-ups, lunges. Perform: 10 reps of squats, 7 reps of pushups, 12 reps of situps, 10 reps of lunges, 2 rounds of the given exercises."
   },
   {
 	"day": 51,
 	"title": "Circuit B",
-	"description": "3 rounds: 20 jumping jacks, 15 plank-to-push-up, 20 mountain climbers."
+	"description": "Rounds of jumping jacks, plank-to-push-up, mountain climbers. Perform: 17 reps of jumping jacks, 12 reps of plank to pushup, 17 reps of mountain climbers, 2 rounds of the given exercises."
   },
   {
 	"day": 52,
 	"title": "Circuit C",
-	"description": "3 rounds: 10 tricep dips, 15 glute bridges, 20 high knees."
+	"description": "Rounds of tricep dips, glute bridges, high knees. Perform: 10 reps of tricep dips, 17 reps of glute bridges, 35 seconds of high knees, 2 rounds of the given exercises."
   },
   {
 	"day": 53,
 	"title": "Circuit D",
-	"description": "3 rounds: 12 burpees, 20 calf raises, 15 bicycle crunches."
+	"description": "Rounds of burpees, calf raises, bicycle crunches. Perform: 10 reps of burpees, 22 reps of calf raises, 17 reps of bicycle crunches, 2 rounds of the given exercises."
   },
   {
 	"day": 54,
 	"title": "Circuit E",
-	"description": "3 rounds: 20-second side planks, 15 supermans, 20 Russian twists."
+	"description": "Rounds of side planks, supermans, Russian twists. Perform: 36 seconds of side planks, 17 reps of supermans, 22 reps of russian twists, 2 rounds of the given exercises."
   },
   {
 	"day": 55,
 	"title": "Stretch & Recover",
-	"description": "Full body stretching routine."
+	"description": "Full body stretching routine. Perform: 19 minutes 35 seconds of activity."
   },
   {
 	"day": 56,
 	"title": "Rest Day",
-	"description": "Light activity or rest."
+	"description": "Light activity or rest. Perform: 9 minutes 40 seconds of activity."
   },
   {
 	"day": 57,
 	"title": "Pilates Core",
-	"description": " Pilates 100s, roll-ups, and leg circles."
+	"description": "Pilates 100s, roll-ups, and leg circles. Perform: 37 seconds of pilates 100s, 7 reps of rollups, 12 reps of leg circles."
   },
   {
 	"day": 58,
 	"title": "Yoga Flow",
-	"description": "Hatha sequence focusing on flexibility."
+	"description": "Hatha sequence focusing on flexibility. Perform: 24 minutes 50 seconds of activity."
   },
   {
 	"day": 59,
 	"title": "Pilates Lower Body",
-	"description": "Side leg lifts, bridges, and donkey kicks."
+	"description": "Side leg lifts, bridges, and donkey kicks. Perform: 12 reps of side leg lifts, 12 reps of bridges, 17 reps of donkey kicks."
   },
   {
 	"day": 60,
 	"title": "Yoga Balance",
-	"description": "Tree pose, warrior III, and eagle pose."
+	"description": "Tree pose, warrior III, and eagle pose. Perform: 20 minutes 0 seconds of activity."
   },
   {
 	"day": 61,
 	"title": "Pilates Full Body",
-	"description": "Pilates push-ups, plank, and teaser prep."
+	"description": "Pilates push-ups, plank, and teaser prep. Perform: 8 reps of pilates pushups, 38 seconds of plank, 8 reps of teaser prep."
   },
   {
 	"day": 62,
 	"title": "Yoga Deep Stretch",
-	"description": "Long holds in hip and hamstring stretches."
+	"description": "Long holds in hip and hamstring stretches. Perform: 20 minutes 10 seconds of activity."
   },
   {
 	"day": 63,
 	"title": "Rest or Meditation",
-	"description": "Guided meditation or complete rest."
+	"description": "Guided meditation or complete rest. Perform: 15 minutes 15 seconds of activity."
   },
   {
 	"day": 64,
 	"title": "Dynamic Stretching",
-	"description": "Leg swings, arm circles, inchworms, and lunges with twist."
+	"description": "Leg swings, arm circles, inchworms, and lunges with twist. Perform: 13 reps of leg swings, 13 reps of arm circles, 8 reps of inchworms, 9 reps of lunges with twist."
   },
   {
 	"day": 65,
 	"title": "Core Focus",
-	"description": "Planks, dead bugs, and Superman holds."
+	"description": "Planks, dead bugs, and Superman holds. Perform: 39 seconds of plank, 13 reps of dead bugs, 34 seconds of superman holds."
   },
   {
 	"day": 66,
 	"title": "Static Stretching",
-	"description": "Hamstring, quad, calf, and shoulder stretches."
+	"description": "Hamstring, quad, calf, and shoulder stretches. Perform: 20 minutes 30 seconds of activity."
   },
   {
 	"day": 67,
 	"title": "Pilates Core",
-	"description": "Criss-cross, roll-ups, and scissor kicks."
+	"description": "Criss-cross, roll-ups, and scissor kicks. Perform: 13 reps of criss cross, 8 reps of rollups, 18 reps of scissor kicks."
   },
   {
 	"day": 68,
 	"title": "Yoga Flow",
-	"description": "Gentle sequence for full body flexibility."
+	"description": "Gentle sequence for full body flexibility. Perform: 20 minutes 40 seconds of activity."
   },
   {
 	"day": 69,
 	"title": "Light Cardio",
-	"description": "Brisk walk or easy jog 30 minutes."
+	"description": "Brisk walk or easy jog. Perform: 25 minutes 45 seconds of activity."
   },
   {
 	"day": 70,
 	"title": "Rest Day",
-	"description": "Recover and hydrate."
+	"description": "Recover and hydrate. Perform: 10 minutes 50 seconds of activity."
   },
   {
 	"day": 71,
 	"title": "Full Body Strength",
-	"description": "Bodyweight squats, push-ups, lunges, and plank holds."
+	"description": "Bodyweight squats, push-ups, lunges, and plank holds. Perform: 8 reps of squats, 6 reps of pushups, 7 reps of lunges, 31 seconds of plank."
   },
   {
 	"day": 72,
 	"title": "Cardio Endurance",
-	"description": "30-minute brisk walk or jog, high knees, and jumping jacks."
+	"description": "Brisk walk or jog, high knees, and jumping jacks. Perform: 36 seconds of high knees, 13 reps of jumping jacks, 16 minutes 0 seconds of activity."
   },
   {
 	"day": 73,
 	"title": "Lower Body Strength",
-	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits."
+	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits. Perform: 7 reps of split squats, 11 reps of glute bridges, 18 reps of calf raises, 36 seconds of wall sit."
   },
   {
 	"day": 74,
 	"title": "Upper Body Strength",
-	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps."
+	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps. Perform: 6 reps of diamond pushups, 8 reps of tricep dips, 8 reps of incline pushups, 13 reps of shoulder taps."
   },
   {
 	"day": 75,
 	"title": "Core Blast",
-	"description": "Plank variations, bicycle crunches, and leg raises."
+	"description": "Plank variations, bicycle crunches, and leg raises. Perform: 37 seconds of plank, 13 reps of bicycle crunches, 11 reps of leg raises."
   },
   {
 	"day": 76,
 	"title": "Mobility & Flexibility",
-	"description": "Yoga flow with hip openers and hamstring stretches."
+	"description": "Yoga flow with hip openers and hamstring stretches. Perform: 16 minutes 20 seconds of activity."
   },
   {
 	"day": 77,
 	"title": "Active Recovery",
-	"description": "Light stretching or a gentle walk."
+	"description": "Light stretching or a gentle walk. Perform: 11 minutes 25 seconds of activity."
   },
   {
 	"day": 78,
 	"title": "HIIT Session",
-	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x4 rounds."
+	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x rounds. Perform: 2 rounds of the given exercises."
   },
   {
 	"day": 79,
 	"title": "Plyometric Leg Day",
-	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops."
+	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops. Perform: 9 reps of jump squats, 9 reps of box jumps, 11 reps of lunges, 18 reps of calf hops."
   },
   {
 	"day": 80,
 	"title": "HIIT Upper Body",
-	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees."
+	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees. Perform: 7 reps of clapping pushups, 10 reps of tricep dips, 14 reps of shoulder taps, 9 reps of plank jack burpees."
   },
   {
 	"day": 81,
 	"title": "Cardio Intervals",
-	"description": "30s sprint in place, 30s walk x10 rounds."
+	"description": "Sprint in place and walk intervals. Perform: 5 rounds of the given exercises, 5 rounds of 60 seconds sprint and 60 seconds walk."
   },
   {
 	"day": 82,
 	"title": "Core & Balance",
-	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists."
+	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists. Perform: 34 seconds of single leg planks, 34 seconds of side planks, 19 reps of flutter kicks, 19 reps of russian twists."
   },
   {
 	"day": 83,
 	"title": "Yoga Flow",
-	"description": "Vinyasa sequence with sun salutations and deep stretching."
+	"description": "Vinyasa sequence with sun salutations and deep stretching. Perform: 21 minutes 55 seconds of activity."
   },
   {
 	"day": 84,
 	"title": "Rest Day",
-	"description": "Full rest or light walk."
+	"description": "Full rest or light walk. Perform: 12 minutes 0 seconds of activity."
   },
   {
 	"day": 85,
 	"title": "Circuit A",
-	"description": "3 rounds: 15 squats, 10 push-ups, 20 sit-ups, 15 lunges."
+	"description": "Rounds of squats, push-ups, sit-ups, lunges. Perform: 12 reps of squats, 9 reps of pushups, 14 reps of situps, 12 reps of lunges, 2 rounds of the given exercises."
   },
   {
 	"day": 86,
 	"title": "Circuit B",
-	"description": "3 rounds: 20 jumping jacks, 15 plank-to-push-up, 20 mountain climbers."
+	"description": "Rounds of jumping jacks, plank-to-push-up, mountain climbers. Perform: 19 reps of jumping jacks, 14 reps of plank to pushup, 19 reps of mountain climbers, 2 rounds of the given exercises."
   },
   {
 	"day": 87,
 	"title": "Circuit C",
-	"description": "3 rounds: 10 tricep dips, 15 glute bridges, 20 high knees."
+	"description": "Rounds of tricep dips, glute bridges, high knees. Perform: 12 reps of tricep dips, 19 reps of glute bridges, 46 seconds of high knees, 2 rounds of the given exercises."
   },
   {
 	"day": 88,
 	"title": "Circuit D",
-	"description": "3 rounds: 12 burpees, 20 calf raises, 15 bicycle crunches."
+	"description": "Rounds of burpees, calf raises, bicycle crunches. Perform: 12 reps of burpees, 24 reps of calf raises, 19 reps of bicycle crunches, 2 rounds of the given exercises."
   },
   {
 	"day": 89,
 	"title": "Circuit E",
-	"description": "3 rounds: 20-second side planks, 15 supermans, 20 Russian twists."
+	"description": "Rounds of side planks, supermans, Russian twists. Perform: 46 seconds of side planks, 19 reps of supermans, 24 reps of russian twists, 2 rounds of the given exercises."
   },
   {
 	"day": 90,
 	"title": "Stretch & Recover",
-	"description": "Full body stretching routine."
+	"description": "Full body stretching routine. Perform: 22 minutes 30 seconds of activity."
   },
   {
 	"day": 91,
 	"title": "Rest Day",
-	"description": "Light activity or rest."
+	"description": "Light activity or rest. Perform: 12 minutes 35 seconds of activity."
   },
   {
 	"day": 92,
 	"title": "Pilates Core",
-	"description": " Pilates 100s, roll-ups, and leg circles."
+	"description": "Pilates 100s, roll-ups, and leg circles. Perform: 47 seconds of pilates 100s, 9 reps of rollups, 14 reps of leg circles."
   },
   {
 	"day": 93,
 	"title": "Yoga Flow",
-	"description": "Hatha sequence focusing on flexibility."
+	"description": "Hatha sequence focusing on flexibility. Perform: 27 minutes 45 seconds of activity."
   },
   {
 	"day": 94,
 	"title": "Pilates Lower Body",
-	"description": "Side leg lifts, bridges, and donkey kicks."
+	"description": "Side leg lifts, bridges, and donkey kicks. Perform: 14 reps of side leg lifts, 14 reps of bridges, 19 reps of donkey kicks."
   },
   {
 	"day": 95,
 	"title": "Yoga Balance",
-	"description": "Tree pose, warrior III, and eagle pose."
+	"description": "Tree pose, warrior III, and eagle pose. Perform: 22 minutes 55 seconds of activity."
   },
   {
 	"day": 96,
 	"title": "Pilates Full Body",
-	"description": "Pilates push-ups, plank, and teaser prep."
+	"description": "Pilates push-ups, plank, and teaser prep. Perform: 9 reps of pilates pushups, 48 seconds of plank, 9 reps of teaser prep."
   },
   {
 	"day": 97,
 	"title": "Yoga Deep Stretch",
-	"description": "Long holds in hip and hamstring stretches."
+	"description": "Long holds in hip and hamstring stretches. Perform: 23 minutes 5 seconds of activity."
   },
   {
 	"day": 98,
 	"title": "Rest or Meditation",
-	"description": "Guided meditation or complete rest."
+	"description": "Guided meditation or complete rest. Perform: 18 minutes 10 seconds of activity."
   },
   {
 	"day": 99,
 	"title": "Dynamic Stretching",
-	"description": "Leg swings, arm circles, inchworms, and lunges with twist."
+	"description": "Leg swings, arm circles, inchworms, and lunges with twist. Perform: 14 reps of leg swings, 14 reps of arm circles, 9 reps of inchworms, 10 reps of lunges with twist."
   },
   {
 	"day": 100,
 	"title": "Core Focus",
-	"description": "Planks, dead bugs, and Superman holds."
+	"description": "Planks, dead bugs, and Superman holds. Perform: 50 seconds of plank, 15 reps of dead bugs, 45 seconds of superman holds."
   },
   {
 	"day": 101,
 	"title": "Static Stretching",
-	"description": "Hamstring, quad, calf, and shoulder stretches."
+	"description": "Hamstring, quad, calf, and shoulder stretches. Perform: 23 minutes 25 seconds of activity."
   },
   {
 	"day": 102,
 	"title": "Pilates Core",
-	"description": "Criss-cross, roll-ups, and scissor kicks."
+	"description": "Criss-cross, roll-ups, and scissor kicks. Perform: 15 reps of criss cross, 10 reps of rollups, 20 reps of scissor kicks."
   },
   {
 	"day": 103,
 	"title": "Yoga Flow",
-	"description": "Gentle sequence for full body flexibility."
+	"description": "Gentle sequence for full body flexibility. Perform: 23 minutes 35 seconds of activity."
   },
   {
 	"day": 104,
 	"title": "Light Cardio",
-	"description": "Brisk walk or easy jog 30 minutes."
+	"description": "Brisk walk or easy jog. Perform: 28 minutes 40 seconds of activity."
   },
   {
 	"day": 105,
 	"title": "Rest Day",
-	"description": "Recover and hydrate."
+	"description": "Recover and hydrate. Perform: 13 minutes 45 seconds of activity."
   },
   {
 	"day": 106,
 	"title": "Full Body Strength",
-	"description": "Bodyweight squats, push-ups, lunges, and plank holds."
+	"description": "Bodyweight squats, push-ups, lunges, and plank holds. Perform: 10 reps of squats, 8 reps of pushups, 9 reps of lunges, 41 seconds of plank."
   },
   {
 	"day": 107,
 	"title": "Cardio Endurance",
-	"description": "30-minute brisk walk or jog, high knees, and jumping jacks."
+	"description": "Brisk walk or jog, high knees, and jumping jacks. Perform: 47 seconds of high knees, 15 reps of jumping jacks, 18 minutes 55 seconds of activity."
   },
   {
 	"day": 108,
 	"title": "Lower Body Strength",
-	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits."
+	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits. Perform: 9 reps of split squats, 13 reps of glute bridges, 20 reps of calf raises, 47 seconds of wall sit."
   },
   {
 	"day": 109,
 	"title": "Upper Body Strength",
-	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps."
+	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps. Perform: 8 reps of diamond pushups, 10 reps of tricep dips, 10 reps of incline pushups, 15 reps of shoulder taps."
   },
   {
 	"day": 110,
 	"title": "Core Blast",
-	"description": "Plank variations, bicycle crunches, and leg raises."
+	"description": "Plank variations, bicycle crunches, and leg raises. Perform: 48 seconds of plank, 15 reps of bicycle crunches, 13 reps of leg raises."
   },
   {
 	"day": 111,
 	"title": "Mobility & Flexibility",
-	"description": "Yoga flow with hip openers and hamstring stretches."
+	"description": "Yoga flow with hip openers and hamstring stretches. Perform: 19 minutes 15 seconds of activity."
   },
   {
 	"day": 112,
 	"title": "Active Recovery",
-	"description": "Light stretching or a gentle walk."
+	"description": "Light stretching or a gentle walk. Perform: 14 minutes 20 seconds of activity."
   },
   {
 	"day": 113,
 	"title": "HIIT Session",
-	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x4 rounds."
+	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x rounds. Perform: 3 rounds of the given exercises."
   },
   {
 	"day": 114,
 	"title": "Plyometric Leg Day",
-	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops."
+	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops. Perform: 11 reps of jump squats, 11 reps of box jumps, 13 reps of lunges, 20 reps of calf hops."
   },
   {
 	"day": 115,
 	"title": "HIIT Upper Body",
-	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees."
+	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees. Perform: 8 reps of clapping pushups, 11 reps of tricep dips, 15 reps of shoulder taps, 10 reps of plank jack burpees."
   },
   {
 	"day": 116,
 	"title": "Cardio Intervals",
-	"description": "30s sprint in place, 30s walk x10 rounds."
+	"description": "Sprint in place and walk intervals. Perform: 6 rounds of the given exercises, 6 rounds of 78 seconds sprint and 78 seconds walk."
   },
   {
 	"day": 117,
 	"title": "Core & Balance",
-	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists."
+	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists. Perform: 45 seconds of single leg planks, 45 seconds of side planks, 20 reps of flutter kicks, 20 reps of russian twists."
   },
   {
 	"day": 118,
 	"title": "Yoga Flow",
-	"description": "Vinyasa sequence with sun salutations and deep stretching."
+	"description": "Vinyasa sequence with sun salutations and deep stretching. Perform: 24 minutes 50 seconds of activity."
   },
   {
 	"day": 119,
 	"title": "Rest Day",
-	"description": "Full rest or light walk."
+	"description": "Full rest or light walk. Perform: 14 minutes 55 seconds of activity."
   },
   {
 	"day": 120,
 	"title": "Circuit A",
-	"description": "3 rounds: 15 squats, 10 push-ups, 20 sit-ups, 15 lunges."
+	"description": "Rounds of squats, push-ups, sit-ups, lunges. Perform: 14 reps of squats, 11 reps of pushups, 16 reps of situps, 14 reps of lunges, 3 rounds of the given exercises."
   },
   {
 	"day": 121,
 	"title": "Circuit B",
-	"description": "3 rounds: 20 jumping jacks, 15 plank-to-push-up, 20 mountain climbers."
+	"description": "Rounds of jumping jacks, plank-to-push-up, mountain climbers. Perform: 21 reps of jumping jacks, 16 reps of plank to pushup, 21 reps of mountain climbers, 3 rounds of the given exercises."
   },
   {
 	"day": 122,
 	"title": "Circuit C",
-	"description": "3 rounds: 10 tricep dips, 15 glute bridges, 20 high knees."
+	"description": "Rounds of tricep dips, glute bridges, high knees. Perform: 14 reps of tricep dips, 21 reps of glute bridges, 56 seconds of high knees, 3 rounds of the given exercises."
   },
   {
 	"day": 123,
 	"title": "Circuit D",
-	"description": "3 rounds: 12 burpees, 20 calf raises, 15 bicycle crunches."
+	"description": "Rounds of burpees, calf raises, bicycle crunches. Perform: 14 reps of burpees, 26 reps of calf raises, 21 reps of bicycle crunches, 3 rounds of the given exercises."
   },
   {
 	"day": 124,
 	"title": "Circuit E",
-	"description": "3 rounds: 20-second side planks, 15 supermans, 20 Russian twists."
+	"description": "Rounds of side planks, supermans, Russian twists. Perform: 57 seconds of side planks, 21 reps of supermans, 26 reps of russian twists, 3 rounds of the given exercises."
   },
   {
 	"day": 125,
 	"title": "Stretch & Recover",
-	"description": "Full body stretching routine."
+	"description": "Full body stretching routine. Perform: 25 minutes 25 seconds of activity."
   },
   {
 	"day": 126,
 	"title": "Rest Day",
-	"description": "Light activity or rest."
+	"description": "Light activity or rest. Perform: 15 minutes 30 seconds of activity."
   },
   {
 	"day": 127,
 	"title": "Pilates Core",
-	"description": " Pilates 100s, roll-ups, and leg circles."
+	"description": "Pilates 100s, roll-ups, and leg circles. Perform: 58 seconds of pilates 100s, 11 reps of rollups, 16 reps of leg circles."
   },
   {
 	"day": 128,
 	"title": "Yoga Flow",
-	"description": "Hatha sequence focusing on flexibility."
+	"description": "Hatha sequence focusing on flexibility. Perform: 30 minutes 40 seconds of activity."
   },
   {
 	"day": 129,
 	"title": "Pilates Lower Body",
-	"description": "Side leg lifts, bridges, and donkey kicks."
+	"description": "Side leg lifts, bridges, and donkey kicks. Perform: 16 reps of side leg lifts, 16 reps of bridges, 21 reps of donkey kicks."
   },
   {
 	"day": 130,
 	"title": "Yoga Balance",
-	"description": "Tree pose, warrior III, and eagle pose."
+	"description": "Tree pose, warrior III, and eagle pose. Perform: 25 minutes 50 seconds of activity."
   },
   {
 	"day": 131,
 	"title": "Pilates Full Body",
-	"description": "Pilates push-ups, plank, and teaser prep."
+	"description": "Pilates push-ups, plank, and teaser prep. Perform: 11 reps of pilates pushups, 59 seconds of plank, 11 reps of teaser prep."
   },
   {
 	"day": 132,
 	"title": "Yoga Deep Stretch",
-	"description": "Long holds in hip and hamstring stretches."
+	"description": "Long holds in hip and hamstring stretches. Perform: 26 minutes 0 seconds of activity."
   },
   {
 	"day": 133,
 	"title": "Rest or Meditation",
-	"description": "Guided meditation or complete rest."
+	"description": "Guided meditation or complete rest. Perform: 21 minutes 5 seconds of activity."
   },
   {
 	"day": 134,
 	"title": "Dynamic Stretching",
-	"description": "Leg swings, arm circles, inchworms, and lunges with twist."
+	"description": "Leg swings, arm circles, inchworms, and lunges with twist. Perform: 16 reps of leg swings, 16 reps of arm circles, 11 reps of inchworms, 12 reps of lunges with twist."
   },
   {
 	"day": 135,
 	"title": "Core Focus",
-	"description": "Planks, dead bugs, and Superman holds."
+	"description": "Planks, dead bugs, and Superman holds. Perform: 60 seconds of plank, 16 reps of dead bugs, 55 seconds of superman holds."
   },
   {
 	"day": 136,
 	"title": "Static Stretching",
-	"description": "Hamstring, quad, calf, and shoulder stretches."
+	"description": "Hamstring, quad, calf, and shoulder stretches. Perform: 26 minutes 20 seconds of activity."
   },
   {
 	"day": 137,
 	"title": "Pilates Core",
-	"description": "Criss-cross, roll-ups, and scissor kicks."
+	"description": "Criss-cross, roll-ups, and scissor kicks. Perform: 16 reps of criss cross, 11 reps of rollups, 21 reps of scissor kicks."
   },
   {
 	"day": 138,
 	"title": "Yoga Flow",
-	"description": "Gentle sequence for full body flexibility."
+	"description": "Gentle sequence for full body flexibility. Perform: 26 minutes 30 seconds of activity."
   },
   {
 	"day": 139,
 	"title": "Light Cardio",
-	"description": "Brisk walk or easy jog 30 minutes."
+	"description": "Brisk walk or easy jog. Perform: 31 minutes 35 seconds of activity."
   },
   {
 	"day": 140,
 	"title": "Rest Day",
-	"description": "Recover and hydrate."
+	"description": "Recover and hydrate. Perform: 16 minutes 40 seconds of activity."
   },
   {
 	"day": 141,
 	"title": "Full Body Strength",
-	"description": "Bodyweight squats, push-ups, lunges, and plank holds."
+	"description": "Bodyweight squats, push-ups, lunges, and plank holds. Perform: 12 reps of squats, 10 reps of pushups, 11 reps of lunges, 52 seconds of plank."
   },
   {
 	"day": 142,
 	"title": "Cardio Endurance",
-	"description": "30-minute brisk walk or jog, high knees, and jumping jacks."
+	"description": "Brisk walk or jog, high knees, and jumping jacks. Perform: 57 seconds of high knees, 17 reps of jumping jacks, 21 minutes 50 seconds of activity."
   },
   {
 	"day": 143,
 	"title": "Lower Body Strength",
-	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits."
+	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits. Perform: 11 reps of split squats, 15 reps of glute bridges, 22 reps of calf raises, 57 seconds of wall sit."
   },
   {
 	"day": 144,
 	"title": "Upper Body Strength",
-	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps."
+	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps. Perform: 10 reps of diamond pushups, 12 reps of tricep dips, 12 reps of incline pushups, 17 reps of shoulder taps."
   },
   {
 	"day": 145,
 	"title": "Core Blast",
-	"description": "Plank variations, bicycle crunches, and leg raises."
+	"description": "Plank variations, bicycle crunches, and leg raises. Perform: 58 seconds of plank, 17 reps of bicycle crunches, 15 reps of leg raises."
   },
   {
 	"day": 146,
 	"title": "Mobility & Flexibility",
-	"description": "Yoga flow with hip openers and hamstring stretches."
+	"description": "Yoga flow with hip openers and hamstring stretches. Perform: 22 minutes 10 seconds of activity."
   },
   {
 	"day": 147,
 	"title": "Active Recovery",
-	"description": "Light stretching or a gentle walk."
+	"description": "Light stretching or a gentle walk. Perform: 17 minutes 15 seconds of activity."
   },
   {
 	"day": 148,
 	"title": "HIIT Session",
-	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x4 rounds."
+	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x rounds. Perform: 3 rounds of the given exercises."
   },
   {
 	"day": 149,
 	"title": "Plyometric Leg Day",
-	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops."
+	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops. Perform: 13 reps of jump squats, 13 reps of box jumps, 15 reps of lunges, 22 reps of calf hops."
   },
   {
 	"day": 150,
 	"title": "HIIT Upper Body",
-	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees."
+	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees. Perform: 10 reps of clapping pushups, 13 reps of tricep dips, 17 reps of shoulder taps, 12 reps of plank jack burpees."
   },
   {
 	"day": 151,
 	"title": "Cardio Intervals",
-	"description": "30s sprint in place, 30s walk x10 rounds."
+	"description": "Sprint in place and walk intervals. Perform: 6 rounds of the given exercises, 6 rounds of 95 seconds sprint and 95 seconds walk."
   },
   {
 	"day": 152,
 	"title": "Core & Balance",
-	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists."
+	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists. Perform: 55 seconds of single leg planks, 55 seconds of side planks, 22 reps of flutter kicks, 22 reps of russian twists."
   },
   {
 	"day": 153,
 	"title": "Yoga Flow",
-	"description": "Vinyasa sequence with sun salutations and deep stretching."
+	"description": "Vinyasa sequence with sun salutations and deep stretching. Perform: 27 minutes 45 seconds of activity."
   },
   {
 	"day": 154,
 	"title": "Rest Day",
-	"description": "Full rest or light walk."
+	"description": "Full rest or light walk. Perform: 17 minutes 50 seconds of activity."
   },
   {
 	"day": 155,
 	"title": "Circuit A",
-	"description": "3 rounds: 15 squats, 10 push-ups, 20 sit-ups, 15 lunges."
+	"description": "Rounds of squats, push-ups, sit-ups, lunges. Perform: 15 reps of squats, 12 reps of pushups, 17 reps of situps, 15 reps of lunges, 3 rounds of the given exercises."
   },
   {
 	"day": 156,
 	"title": "Circuit B",
-	"description": "3 rounds: 20 jumping jacks, 15 plank-to-push-up, 20 mountain climbers."
+	"description": "Rounds of jumping jacks, plank-to-push-up, mountain climbers. Perform: 22 reps of jumping jacks, 17 reps of plank to pushup, 22 reps of mountain climbers, 3 rounds of the given exercises."
   },
   {
 	"day": 157,
 	"title": "Circuit C",
-	"description": "3 rounds: 10 tricep dips, 15 glute bridges, 20 high knees."
+	"description": "Rounds of tricep dips, glute bridges, high knees. Perform: 15 reps of tricep dips, 22 reps of glute bridges, 67 seconds of high knees, 3 rounds of the given exercises."
   },
   {
 	"day": 158,
 	"title": "Circuit D",
-	"description": "3 rounds: 12 burpees, 20 calf raises, 15 bicycle crunches."
+	"description": "Rounds of burpees, calf raises, bicycle crunches. Perform: 15 reps of burpees, 27 reps of calf raises, 22 reps of bicycle crunches, 3 rounds of the given exercises."
   },
   {
 	"day": 159,
 	"title": "Circuit E",
-	"description": "3 rounds: 20-second side planks, 15 supermans, 20 Russian twists."
+	"description": "Rounds of side planks, supermans, Russian twists. Perform: 67 seconds of side planks, 22 reps of supermans, 27 reps of russian twists, 3 rounds of the given exercises."
   },
   {
 	"day": 160,
 	"title": "Stretch & Recover",
-	"description": "Full body stretching routine."
+	"description": "Full body stretching routine. Perform: 28 minutes 20 seconds of activity."
   },
   {
 	"day": 161,
 	"title": "Rest Day",
-	"description": "Light activity or rest."
+	"description": "Light activity or rest. Perform: 18 minutes 25 seconds of activity."
   },
   {
 	"day": 162,
 	"title": "Pilates Core",
-	"description": " Pilates 100s, roll-ups, and leg circles."
+	"description": "Pilates 100s, roll-ups, and leg circles. Perform: 68 seconds of pilates 100s, 13 reps of rollups, 18 reps of leg circles."
   },
   {
 	"day": 163,
 	"title": "Yoga Flow",
-	"description": "Hatha sequence focusing on flexibility."
+	"description": "Hatha sequence focusing on flexibility. Perform: 33 minutes 35 seconds of activity."
   },
   {
 	"day": 164,
 	"title": "Pilates Lower Body",
-	"description": "Side leg lifts, bridges, and donkey kicks."
+	"description": "Side leg lifts, bridges, and donkey kicks. Perform: 18 reps of side leg lifts, 18 reps of bridges, 23 reps of donkey kicks."
   },
   {
 	"day": 165,
 	"title": "Yoga Balance",
-	"description": "Tree pose, warrior III, and eagle pose."
+	"description": "Tree pose, warrior III, and eagle pose. Perform: 28 minutes 45 seconds of activity."
   },
   {
 	"day": 166,
 	"title": "Pilates Full Body",
-	"description": "Pilates push-ups, plank, and teaser prep."
+	"description": "Pilates push-ups, plank, and teaser prep. Perform: 13 reps of pilates pushups, 69 seconds of plank, 13 reps of teaser prep."
   },
   {
 	"day": 167,
 	"title": "Yoga Deep Stretch",
-	"description": "Long holds in hip and hamstring stretches."
+	"description": "Long holds in hip and hamstring stretches. Perform: 28 minutes 55 seconds of activity."
   },
   {
 	"day": 168,
 	"title": "Rest or Meditation",
-	"description": "Guided meditation or complete rest."
+	"description": "Guided meditation or complete rest. Perform: 24 minutes 0 seconds of activity."
   },
   {
 	"day": 169,
 	"title": "Dynamic Stretching",
-	"description": "Leg swings, arm circles, inchworms, and lunges with twist."
+	"description": "Leg swings, arm circles, inchworms, and lunges with twist. Perform: 18 reps of leg swings, 18 reps of arm circles, 13 reps of inchworms, 14 reps of lunges with twist."
   },
   {
 	"day": 170,
 	"title": "Core Focus",
-	"description": "Planks, dead bugs, and Superman holds."
+	"description": "Planks, dead bugs, and Superman holds. Perform: 71 seconds of plank, 18 reps of dead bugs, 66 seconds of superman holds."
   },
   {
 	"day": 171,
 	"title": "Static Stretching",
-	"description": "Hamstring, quad, calf, and shoulder stretches."
+	"description": "Hamstring, quad, calf, and shoulder stretches. Perform: 29 minutes 15 seconds of activity."
   },
   {
 	"day": 172,
 	"title": "Pilates Core",
-	"description": "Criss-cross, roll-ups, and scissor kicks."
+	"description": "Criss-cross, roll-ups, and scissor kicks. Perform: 18 reps of criss cross, 13 reps of rollups, 23 reps of scissor kicks."
   },
   {
 	"day": 173,
 	"title": "Yoga Flow",
-	"description": "Gentle sequence for full body flexibility."
+	"description": "Gentle sequence for full body flexibility. Perform: 29 minutes 25 seconds of activity."
   },
   {
 	"day": 174,
 	"title": "Light Cardio",
-	"description": "Brisk walk or easy jog 30 minutes."
+	"description": "Brisk walk or easy jog. Perform: 34 minutes 30 seconds of activity."
   },
   {
 	"day": 175,
 	"title": "Rest Day",
-	"description": "Recover and hydrate."
+	"description": "Recover and hydrate. Perform: 19 minutes 35 seconds of activity."
   },
   {
 	"day": 176,
 	"title": "Full Body Strength",
-	"description": "Bodyweight squats, push-ups, lunges, and plank holds."
+	"description": "Bodyweight squats, push-ups, lunges, and plank holds. Perform: 13 reps of squats, 11 reps of pushups, 12 reps of lunges, 62 seconds of plank."
   },
   {
 	"day": 177,
 	"title": "Cardio Endurance",
-	"description": "30-minute brisk walk or jog, high knees, and jumping jacks."
+	"description": "Brisk walk or jog, high knees, and jumping jacks. Perform: 68 seconds of high knees, 18 reps of jumping jacks, 24 minutes 45 seconds of activity."
   },
   {
 	"day": 178,
 	"title": "Lower Body Strength",
-	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits."
+	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits. Perform: 12 reps of split squats, 16 reps of glute bridges, 23 reps of calf raises, 68 seconds of wall sit."
   },
   {
 	"day": 179,
 	"title": "Upper Body Strength",
-	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps."
+	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps. Perform: 11 reps of diamond pushups, 13 reps of tricep dips, 13 reps of incline pushups, 18 reps of shoulder taps."
   },
   {
 	"day": 180,
 	"title": "Core Blast",
-	"description": "Plank variations, bicycle crunches, and leg raises."
+	"description": "Plank variations, bicycle crunches, and leg raises. Perform: 69 seconds of plank, 19 reps of bicycle crunches, 17 reps of leg raises."
   },
   {
 	"day": 181,
 	"title": "Mobility & Flexibility",
-	"description": "Yoga flow with hip openers and hamstring stretches."
+	"description": "Yoga flow with hip openers and hamstring stretches. Perform: 25 minutes 5 seconds of activity."
   },
   {
 	"day": 182,
 	"title": "Active Recovery",
-	"description": "Light stretching or a gentle walk."
+	"description": "Light stretching or a gentle walk. Perform: 20 minutes 10 seconds of activity."
   },
   {
 	"day": 183,
 	"title": "HIIT Session",
-	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x4 rounds."
+	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x rounds. Perform: 3 rounds of the given exercises."
   },
   {
 	"day": 184,
 	"title": "Plyometric Leg Day",
-	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops."
+	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops. Perform: 15 reps of jump squats, 15 reps of box jumps, 17 reps of lunges, 24 reps of calf hops."
   },
   {
 	"day": 185,
 	"title": "HIIT Upper Body",
-	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees."
+	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees. Perform: 12 reps of clapping pushups, 15 reps of tricep dips, 19 reps of shoulder taps, 14 reps of plank jack burpees."
   },
   {
 	"day": 186,
 	"title": "Cardio Intervals",
-	"description": "30s sprint in place, 30s walk x10 rounds."
+	"description": "Sprint in place and walk intervals. Perform: 6 rounds of the given exercises, 6 rounds of 113 seconds sprint and 113 seconds walk."
   },
   {
 	"day": 187,
 	"title": "Core & Balance",
-	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists."
+	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists. Perform: 66 seconds of single leg planks, 66 seconds of side planks, 24 reps of flutter kicks, 24 reps of russian twists."
   },
   {
 	"day": 188,
 	"title": "Yoga Flow",
-	"description": "Vinyasa sequence with sun salutations and deep stretching."
+	"description": "Vinyasa sequence with sun salutations and deep stretching. Perform: 30 minutes 40 seconds of activity."
   },
   {
 	"day": 189,
 	"title": "Rest Day",
-	"description": "Full rest or light walk."
+	"description": "Full rest or light walk. Perform: 20 minutes 45 seconds of activity."
   },
   {
 	"day": 190,
 	"title": "Circuit A",
-	"description": "3 rounds: 15 squats, 10 push-ups, 20 sit-ups, 15 lunges."
+	"description": "Rounds of squats, push-ups, sit-ups, lunges. Perform: 17 reps of squats, 14 reps of pushups, 19 reps of situps, 17 reps of lunges, 3 rounds of the given exercises."
   },
   {
 	"day": 191,
 	"title": "Circuit B",
-	"description": "3 rounds: 20 jumping jacks, 15 plank-to-push-up, 20 mountain climbers."
+	"description": "Rounds of jumping jacks, plank-to-push-up, mountain climbers. Perform: 24 reps of jumping jacks, 19 reps of plank to pushup, 24 reps of mountain climbers, 3 rounds of the given exercises."
   },
   {
 	"day": 192,
 	"title": "Circuit C",
-	"description": "3 rounds: 10 tricep dips, 15 glute bridges, 20 high knees."
+	"description": "Rounds of tricep dips, glute bridges, high knees. Perform: 17 reps of tricep dips, 24 reps of glute bridges, 77 seconds of high knees, 3 rounds of the given exercises."
   },
   {
 	"day": 193,
 	"title": "Circuit D",
-	"description": "3 rounds: 12 burpees, 20 calf raises, 15 bicycle crunches."
+	"description": "Rounds of burpees, calf raises, bicycle crunches. Perform: 17 reps of burpees, 29 reps of calf raises, 24 reps of bicycle crunches, 3 rounds of the given exercises."
   },
   {
 	"day": 194,
 	"title": "Circuit E",
-	"description": "3 rounds: 20-second side planks, 15 supermans, 20 Russian twists."
+	"description": "Rounds of side planks, supermans, Russian twists. Perform: 78 seconds of side planks, 24 reps of supermans, 29 reps of russian twists, 3 rounds of the given exercises."
   },
   {
 	"day": 195,
 	"title": "Stretch & Recover",
-	"description": "Full body stretching routine."
+	"description": "Full body stretching routine. Perform: 31 minutes 15 seconds of activity."
   },
   {
 	"day": 196,
 	"title": "Rest Day",
-	"description": "Light activity or rest."
+	"description": "Light activity or rest. Perform: 21 minutes 20 seconds of activity."
   },
   {
 	"day": 197,
 	"title": "Pilates Core",
-	"description": " Pilates 100s, roll-ups, and leg circles."
+	"description": "Pilates 100s, roll-ups, and leg circles. Perform: 79 seconds of pilates 100s, 14 reps of rollups, 19 reps of leg circles."
   },
   {
 	"day": 198,
 	"title": "Yoga Flow",
-	"description": "Hatha sequence focusing on flexibility."
+	"description": "Hatha sequence focusing on flexibility. Perform: 36 minutes 30 seconds of activity."
   },
   {
 	"day": 199,
 	"title": "Pilates Lower Body",
-	"description": "Side leg lifts, bridges, and donkey kicks."
+	"description": "Side leg lifts, bridges, and donkey kicks. Perform: 19 reps of side leg lifts, 19 reps of bridges, 24 reps of donkey kicks."
   },
   {
 	"day": 200,
 	"title": "Yoga Balance",
-	"description": "Tree pose, warrior III, and eagle pose."
+	"description": "Tree pose, warrior III, and eagle pose. Perform: 31 minutes 40 seconds of activity."
   },
   {
 	"day": 201,
 	"title": "Pilates Full Body",
-	"description": "Pilates push-ups, plank, and teaser prep."
+	"description": "Pilates push-ups, plank, and teaser prep. Perform: 15 reps of pilates pushups, 80 seconds of plank, 15 reps of teaser prep."
   },
   {
 	"day": 202,
 	"title": "Yoga Deep Stretch",
-	"description": "Long holds in hip and hamstring stretches."
+	"description": "Long holds in hip and hamstring stretches. Perform: 31 minutes 50 seconds of activity."
   },
   {
 	"day": 203,
 	"title": "Rest or Meditation",
-	"description": "Guided meditation or complete rest."
+	"description": "Guided meditation or complete rest. Perform: 26 minutes 55 seconds of activity."
   },
   {
 	"day": 204,
 	"title": "Dynamic Stretching",
-	"description": "Leg swings, arm circles, inchworms, and lunges with twist."
+	"description": "Leg swings, arm circles, inchworms, and lunges with twist. Perform: 20 reps of leg swings, 20 reps of arm circles, 15 reps of inchworms, 16 reps of lunges with twist."
   },
   {
 	"day": 205,
 	"title": "Core Focus",
-	"description": "Planks, dead bugs, and Superman holds."
+	"description": "Planks, dead bugs, and Superman holds. Perform: 81 seconds of plank, 20 reps of dead bugs, 76 seconds of superman holds."
   },
   {
 	"day": 206,
 	"title": "Static Stretching",
-	"description": "Hamstring, quad, calf, and shoulder stretches."
+	"description": "Hamstring, quad, calf, and shoulder stretches. Perform: 32 minutes 10 seconds of activity."
   },
   {
 	"day": 207,
 	"title": "Pilates Core",
-	"description": "Criss-cross, roll-ups, and scissor kicks."
+	"description": "Criss-cross, roll-ups, and scissor kicks. Perform: 20 reps of criss cross, 15 reps of rollups, 25 reps of scissor kicks."
   },
   {
 	"day": 208,
 	"title": "Yoga Flow",
-	"description": "Gentle sequence for full body flexibility."
+	"description": "Gentle sequence for full body flexibility. Perform: 32 minutes 20 seconds of activity."
   },
   {
 	"day": 209,
 	"title": "Light Cardio",
-	"description": "Brisk walk or easy jog 30 minutes."
+	"description": "Brisk walk or easy jog. Perform: 37 minutes 25 seconds of activity."
   },
   {
 	"day": 210,
 	"title": "Rest Day",
-	"description": "Recover and hydrate."
+	"description": "Recover and hydrate. Perform: 22 minutes 30 seconds of activity."
   },
   {
 	"day": 211,
 	"title": "Full Body Strength",
-	"description": "Bodyweight squats, push-ups, lunges, and plank holds."
+	"description": "Bodyweight squats, push-ups, lunges, and plank holds. Perform: 15 reps of squats, 13 reps of pushups, 14 reps of lunges, 73 seconds of plank."
   },
   {
 	"day": 212,
 	"title": "Cardio Endurance",
-	"description": "30-minute brisk walk or jog, high knees, and jumping jacks."
+	"description": "Brisk walk or jog, high knees, and jumping jacks. Perform: 78 seconds of high knees, 20 reps of jumping jacks, 27 minutes 40 seconds of activity."
   },
   {
 	"day": 213,
 	"title": "Lower Body Strength",
-	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits."
+	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits. Perform: 14 reps of split squats, 18 reps of glute bridges, 25 reps of calf raises, 78 seconds of wall sit."
   },
   {
 	"day": 214,
 	"title": "Upper Body Strength",
-	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps."
+	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps. Perform: 13 reps of diamond pushups, 15 reps of tricep dips, 15 reps of incline pushups, 20 reps of shoulder taps."
   },
   {
 	"day": 215,
 	"title": "Core Blast",
-	"description": "Plank variations, bicycle crunches, and leg raises."
+	"description": "Plank variations, bicycle crunches, and leg raises. Perform: 79 seconds of plank, 20 reps of bicycle crunches, 18 reps of leg raises."
   },
   {
 	"day": 216,
 	"title": "Mobility & Flexibility",
-	"description": "Yoga flow with hip openers and hamstring stretches."
+	"description": "Yoga flow with hip openers and hamstring stretches. Perform: 28 minutes 0 seconds of activity."
   },
   {
 	"day": 217,
 	"title": "Active Recovery",
-	"description": "Light stretching or a gentle walk."
+	"description": "Light stretching or a gentle walk. Perform: 23 minutes 5 seconds of activity."
   },
   {
 	"day": 218,
 	"title": "HIIT Session",
-	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x4 rounds."
+	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x rounds. Perform: 4 rounds of the given exercises."
   },
   {
 	"day": 219,
 	"title": "Plyometric Leg Day",
-	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops."
+	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops. Perform: 16 reps of jump squats, 16 reps of box jumps, 18 reps of lunges, 25 reps of calf hops."
   },
   {
 	"day": 220,
 	"title": "HIIT Upper Body",
-	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees."
+	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees. Perform: 14 reps of clapping pushups, 17 reps of tricep dips, 21 reps of shoulder taps, 16 reps of plank jack burpees."
   },
   {
 	"day": 221,
 	"title": "Cardio Intervals",
-	"description": "30s sprint in place, 30s walk x10 rounds."
+	"description": "Sprint in place and walk intervals. Perform: 7 rounds of the given exercises, 7 rounds of 130 seconds sprint and 130 seconds walk."
   },
   {
 	"day": 222,
 	"title": "Core & Balance",
-	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists."
+	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists. Perform: 76 seconds of single leg planks, 76 seconds of side planks, 26 reps of flutter kicks, 26 reps of russian twists."
   },
   {
 	"day": 223,
 	"title": "Yoga Flow",
-	"description": "Vinyasa sequence with sun salutations and deep stretching."
+	"description": "Vinyasa sequence with sun salutations and deep stretching. Perform: 33 minutes 35 seconds of activity."
   },
   {
 	"day": 224,
 	"title": "Rest Day",
-	"description": "Full rest or light walk."
+	"description": "Full rest or light walk. Perform: 23 minutes 40 seconds of activity."
   },
   {
 	"day": 225,
 	"title": "Circuit A",
-	"description": "3 rounds: 15 squats, 10 push-ups, 20 sit-ups, 15 lunges."
+	"description": "Rounds of squats, push-ups, sit-ups, lunges. Perform: 19 reps of squats, 16 reps of pushups, 21 reps of situps, 19 reps of lunges, 4 rounds of the given exercises."
   },
   {
 	"day": 226,
 	"title": "Circuit B",
-	"description": "3 rounds: 20 jumping jacks, 15 plank-to-push-up, 20 mountain climbers."
+	"description": "Rounds of jumping jacks, plank-to-push-up, mountain climbers. Perform: 26 reps of jumping jacks, 21 reps of plank to pushup, 26 reps of mountain climbers, 4 rounds of the given exercises."
   },
   {
 	"day": 227,
 	"title": "Circuit C",
-	"description": "3 rounds: 10 tricep dips, 15 glute bridges, 20 high knees."
+	"description": "Rounds of tricep dips, glute bridges, high knees. Perform: 19 reps of tricep dips, 26 reps of glute bridges, 88 seconds of high knees, 4 rounds of the given exercises."
   },
   {
 	"day": 228,
 	"title": "Circuit D",
-	"description": "3 rounds: 12 burpees, 20 calf raises, 15 bicycle crunches."
+	"description": "Rounds of burpees, calf raises, bicycle crunches. Perform: 19 reps of burpees, 31 reps of calf raises, 26 reps of bicycle crunches, 4 rounds of the given exercises."
   },
   {
 	"day": 229,
 	"title": "Circuit E",
-	"description": "3 rounds: 20-second side planks, 15 supermans, 20 Russian twists."
+	"description": "Rounds of side planks, supermans, Russian twists. Perform: 88 seconds of side planks, 26 reps of supermans, 31 reps of russian twists, 4 rounds of the given exercises."
   },
   {
 	"day": 230,
 	"title": "Stretch & Recover",
-	"description": "Full body stretching routine."
+	"description": "Full body stretching routine. Perform: 34 minutes 10 seconds of activity."
   },
   {
 	"day": 231,
 	"title": "Rest Day",
-	"description": "Light activity or rest."
+	"description": "Light activity or rest. Perform: 24 minutes 15 seconds of activity."
   },
   {
 	"day": 232,
 	"title": "Pilates Core",
-	"description": " Pilates 100s, roll-ups, and leg circles."
+	"description": "Pilates 100s, roll-ups, and leg circles. Perform: 89 seconds of pilates 100s, 16 reps of rollups, 21 reps of leg circles."
   },
   {
 	"day": 233,
 	"title": "Yoga Flow",
-	"description": "Hatha sequence focusing on flexibility."
+	"description": "Hatha sequence focusing on flexibility. Perform: 39 minutes 25 seconds of activity."
   },
   {
 	"day": 234,
 	"title": "Pilates Lower Body",
-	"description": "Side leg lifts, bridges, and donkey kicks."
+	"description": "Side leg lifts, bridges, and donkey kicks. Perform: 21 reps of side leg lifts, 21 reps of bridges, 26 reps of donkey kicks."
   },
   {
 	"day": 235,
 	"title": "Yoga Balance",
-	"description": "Tree pose, warrior III, and eagle pose."
+	"description": "Tree pose, warrior III, and eagle pose. Perform: 34 minutes 35 seconds of activity."
   },
   {
 	"day": 236,
 	"title": "Pilates Full Body",
-	"description": "Pilates push-ups, plank, and teaser prep."
+	"description": "Pilates push-ups, plank, and teaser prep. Perform: 16 reps of pilates pushups, 90 seconds of plank, 16 reps of teaser prep."
   },
   {
 	"day": 237,
 	"title": "Yoga Deep Stretch",
-	"description": "Long holds in hip and hamstring stretches."
+	"description": "Long holds in hip and hamstring stretches. Perform: 34 minutes 45 seconds of activity."
   },
   {
 	"day": 238,
 	"title": "Rest or Meditation",
-	"description": "Guided meditation or complete rest."
+	"description": "Guided meditation or complete rest. Perform: 29 minutes 50 seconds of activity."
   },
   {
 	"day": 239,
 	"title": "Dynamic Stretching",
-	"description": "Leg swings, arm circles, inchworms, and lunges with twist."
+	"description": "Leg swings, arm circles, inchworms, and lunges with twist. Perform: 21 reps of leg swings, 21 reps of arm circles, 16 reps of inchworms, 17 reps of lunges with twist."
   },
   {
 	"day": 240,
 	"title": "Core Focus",
-	"description": "Planks, dead bugs, and Superman holds."
+	"description": "Planks, dead bugs, and Superman holds. Perform: 92 seconds of plank, 22 reps of dead bugs, 87 seconds of superman holds."
   },
   {
 	"day": 241,
 	"title": "Static Stretching",
-	"description": "Hamstring, quad, calf, and shoulder stretches."
+	"description": "Hamstring, quad, calf, and shoulder stretches. Perform: 35 minutes 5 seconds of activity."
   },
   {
 	"day": 242,
 	"title": "Pilates Core",
-	"description": "Criss-cross, roll-ups, and scissor kicks."
+	"description": "Criss-cross, roll-ups, and scissor kicks. Perform: 22 reps of criss cross, 17 reps of rollups, 27 reps of scissor kicks."
   },
   {
 	"day": 243,
 	"title": "Yoga Flow",
-	"description": "Gentle sequence for full body flexibility."
+	"description": "Gentle sequence for full body flexibility. Perform: 35 minutes 15 seconds of activity."
   },
   {
 	"day": 244,
 	"title": "Light Cardio",
-	"description": "Brisk walk or easy jog 30 minutes."
+	"description": "Brisk walk or easy jog. Perform: 40 minutes 20 seconds of activity."
   },
   {
 	"day": 245,
 	"title": "Rest Day",
-	"description": "Recover and hydrate."
+	"description": "Recover and hydrate. Perform: 25 minutes 25 seconds of activity."
   },
   {
 	"day": 246,
 	"title": "Full Body Strength",
-	"description": "Bodyweight squats, push-ups, lunges, and plank holds."
+	"description": "Bodyweight squats, push-ups, lunges, and plank holds. Perform: 17 reps of squats, 15 reps of pushups, 16 reps of lunges, 83 seconds of plank."
   },
   {
 	"day": 247,
 	"title": "Cardio Endurance",
-	"description": "30-minute brisk walk or jog, high knees, and jumping jacks."
+	"description": "Brisk walk or jog, high knees, and jumping jacks. Perform: 89 seconds of high knees, 22 reps of jumping jacks, 30 minutes 35 seconds of activity."
   },
   {
 	"day": 248,
 	"title": "Lower Body Strength",
-	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits."
+	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits. Perform: 16 reps of split squats, 20 reps of glute bridges, 27 reps of calf raises, 89 seconds of wall sit."
   },
   {
 	"day": 249,
 	"title": "Upper Body Strength",
-	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps."
+	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps. Perform: 15 reps of diamond pushups, 17 reps of tricep dips, 17 reps of incline pushups, 22 reps of shoulder taps."
   },
   {
 	"day": 250,
 	"title": "Core Blast",
-	"description": "Plank variations, bicycle crunches, and leg raises."
+	"description": "Plank variations, bicycle crunches, and leg raises. Perform: 90 seconds of plank, 22 reps of bicycle crunches, 20 reps of leg raises."
   },
   {
 	"day": 251,
 	"title": "Mobility & Flexibility",
-	"description": "Yoga flow with hip openers and hamstring stretches."
+	"description": "Yoga flow with hip openers and hamstring stretches. Perform: 30 minutes 55 seconds of activity."
   },
   {
 	"day": 252,
 	"title": "Active Recovery",
-	"description": "Light stretching or a gentle walk."
+	"description": "Light stretching or a gentle walk. Perform: 26 minutes 0 seconds of activity."
   },
   {
 	"day": 253,
 	"title": "HIIT Session",
-	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x4 rounds."
+	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x rounds. Perform: 4 rounds of the given exercises."
   },
   {
 	"day": 254,
 	"title": "Plyometric Leg Day",
-	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops."
+	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops. Perform: 18 reps of jump squats, 18 reps of box jumps, 20 reps of lunges, 27 reps of calf hops."
   },
   {
 	"day": 255,
 	"title": "HIIT Upper Body",
-	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees."
+	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees. Perform: 15 reps of clapping pushups, 18 reps of tricep dips, 22 reps of shoulder taps, 17 reps of plank jack burpees."
   },
   {
 	"day": 256,
 	"title": "Cardio Intervals",
-	"description": "30s sprint in place, 30s walk x10 rounds."
+	"description": "Sprint in place and walk intervals. Perform: 7 rounds of the given exercises, 7 rounds of 148 seconds sprint and 148 seconds walk."
   },
   {
 	"day": 257,
 	"title": "Core & Balance",
-	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists."
+	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists. Perform: 87 seconds of single leg planks, 87 seconds of side planks, 27 reps of flutter kicks, 27 reps of russian twists."
   },
   {
 	"day": 258,
 	"title": "Yoga Flow",
-	"description": "Vinyasa sequence with sun salutations and deep stretching."
+	"description": "Vinyasa sequence with sun salutations and deep stretching. Perform: 36 minutes 30 seconds of activity."
   },
   {
 	"day": 259,
 	"title": "Rest Day",
-	"description": "Full rest or light walk."
+	"description": "Full rest or light walk. Perform: 26 minutes 35 seconds of activity."
   },
   {
 	"day": 260,
 	"title": "Circuit A",
-	"description": "3 rounds: 15 squats, 10 push-ups, 20 sit-ups, 15 lunges."
+	"description": "Rounds of squats, push-ups, sit-ups, lunges. Perform: 21 reps of squats, 18 reps of pushups, 23 reps of situps, 21 reps of lunges, 4 rounds of the given exercises."
   },
   {
 	"day": 261,
 	"title": "Circuit B",
-	"description": "3 rounds: 20 jumping jacks, 15 plank-to-push-up, 20 mountain climbers."
+	"description": "Rounds of jumping jacks, plank-to-push-up, mountain climbers. Perform: 28 reps of jumping jacks, 23 reps of plank to pushup, 28 reps of mountain climbers, 4 rounds of the given exercises."
   },
   {
 	"day": 262,
 	"title": "Circuit C",
-	"description": "3 rounds: 10 tricep dips, 15 glute bridges, 20 high knees."
+	"description": "Rounds of tricep dips, glute bridges, high knees. Perform: 21 reps of tricep dips, 28 reps of glute bridges, 98 seconds of high knees, 4 rounds of the given exercises."
   },
   {
 	"day": 263,
 	"title": "Circuit D",
-	"description": "3 rounds: 12 burpees, 20 calf raises, 15 bicycle crunches."
+	"description": "Rounds of burpees, calf raises, bicycle crunches. Perform: 21 reps of burpees, 33 reps of calf raises, 28 reps of bicycle crunches, 4 rounds of the given exercises."
   },
   {
 	"day": 264,
 	"title": "Circuit E",
-	"description": "3 rounds: 20-second side planks, 15 supermans, 20 Russian twists."
+	"description": "Rounds of side planks, supermans, Russian twists. Perform: 99 seconds of side planks, 28 reps of supermans, 33 reps of russian twists, 4 rounds of the given exercises."
   },
   {
 	"day": 265,
 	"title": "Stretch & Recover",
-	"description": "Full body stretching routine."
+	"description": "Full body stretching routine. Perform: 37 minutes 5 seconds of activity."
   },
   {
 	"day": 266,
 	"title": "Rest Day",
-	"description": "Light activity or rest."
+	"description": "Light activity or rest. Perform: 27 minutes 10 seconds of activity."
   },
   {
 	"day": 267,
 	"title": "Pilates Core",
-	"description": " Pilates 100s, roll-ups, and leg circles."
+	"description": "Pilates 100s, roll-ups, and leg circles. Perform: 100 seconds of pilates 100s, 18 reps of rollups, 23 reps of leg circles."
   },
   {
 	"day": 268,
 	"title": "Yoga Flow",
-	"description": "Hatha sequence focusing on flexibility."
+	"description": "Hatha sequence focusing on flexibility. Perform: 42 minutes 20 seconds of activity."
   },
   {
 	"day": 269,
 	"title": "Pilates Lower Body",
-	"description": "Side leg lifts, bridges, and donkey kicks."
+	"description": "Side leg lifts, bridges, and donkey kicks. Perform: 23 reps of side leg lifts, 23 reps of bridges, 28 reps of donkey kicks."
   },
   {
 	"day": 270,
 	"title": "Yoga Balance",
-	"description": "Tree pose, warrior III, and eagle pose."
+	"description": "Tree pose, warrior III, and eagle pose. Perform: 37 minutes 30 seconds of activity."
   },
   {
 	"day": 271,
 	"title": "Pilates Full Body",
-	"description": "Pilates push-ups, plank, and teaser prep."
+	"description": "Pilates push-ups, plank, and teaser prep. Perform: 18 reps of pilates pushups, 101 seconds of plank, 18 reps of teaser prep."
   },
   {
 	"day": 272,
 	"title": "Yoga Deep Stretch",
-	"description": "Long holds in hip and hamstring stretches."
+	"description": "Long holds in hip and hamstring stretches. Perform: 37 minutes 40 seconds of activity."
   },
   {
 	"day": 273,
 	"title": "Rest or Meditation",
-	"description": "Guided meditation or complete rest."
+	"description": "Guided meditation or complete rest. Perform: 32 minutes 45 seconds of activity."
   },
   {
 	"day": 274,
 	"title": "Dynamic Stretching",
-	"description": "Leg swings, arm circles, inchworms, and lunges with twist."
+	"description": "Leg swings, arm circles, inchworms, and lunges with twist. Perform: 23 reps of leg swings, 23 reps of arm circles, 18 reps of inchworms, 19 reps of lunges with twist."
   },
   {
 	"day": 275,
 	"title": "Core Focus",
-	"description": "Planks, dead bugs, and Superman holds."
+	"description": "Planks, dead bugs, and Superman holds. Perform: 102 seconds of plank, 23 reps of dead bugs, 97 seconds of superman holds."
   },
   {
 	"day": 276,
 	"title": "Static Stretching",
-	"description": "Hamstring, quad, calf, and shoulder stretches."
+	"description": "Hamstring, quad, calf, and shoulder stretches. Perform: 38 minutes 0 seconds of activity."
   },
   {
 	"day": 277,
 	"title": "Pilates Core",
-	"description": "Criss-cross, roll-ups, and scissor kicks."
+	"description": "Criss-cross, roll-ups, and scissor kicks. Perform: 23 reps of criss cross, 18 reps of rollups, 28 reps of scissor kicks."
   },
   {
 	"day": 278,
 	"title": "Yoga Flow",
-	"description": "Gentle sequence for full body flexibility."
+	"description": "Gentle sequence for full body flexibility. Perform: 38 minutes 10 seconds of activity."
   },
   {
 	"day": 279,
 	"title": "Light Cardio",
-	"description": "Brisk walk or easy jog 30 minutes."
+	"description": "Brisk walk or easy jog. Perform: 43 minutes 15 seconds of activity."
   },
   {
 	"day": 280,
 	"title": "Rest Day",
-	"description": "Recover and hydrate."
+	"description": "Recover and hydrate. Perform: 28 minutes 20 seconds of activity."
   },
   {
 	"day": 281,
 	"title": "Full Body Strength",
-	"description": "Bodyweight squats, push-ups, lunges, and plank holds."
+	"description": "Bodyweight squats, push-ups, lunges, and plank holds. Perform: 19 reps of squats, 17 reps of pushups, 18 reps of lunges, 94 seconds of plank."
   },
   {
 	"day": 282,
 	"title": "Cardio Endurance",
-	"description": "30-minute brisk walk or jog, high knees, and jumping jacks."
+	"description": "Brisk walk or jog, high knees, and jumping jacks. Perform: 99 seconds of high knees, 24 reps of jumping jacks, 33 minutes 30 seconds of activity."
   },
   {
 	"day": 283,
 	"title": "Lower Body Strength",
-	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits."
+	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits. Perform: 18 reps of split squats, 22 reps of glute bridges, 29 reps of calf raises, 99 seconds of wall sit."
   },
   {
 	"day": 284,
 	"title": "Upper Body Strength",
-	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps."
+	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps. Perform: 17 reps of diamond pushups, 19 reps of tricep dips, 19 reps of incline pushups, 24 reps of shoulder taps."
   },
   {
 	"day": 285,
 	"title": "Core Blast",
-	"description": "Plank variations, bicycle crunches, and leg raises."
+	"description": "Plank variations, bicycle crunches, and leg raises. Perform: 100 seconds of plank, 24 reps of bicycle crunches, 22 reps of leg raises."
   },
   {
 	"day": 286,
 	"title": "Mobility & Flexibility",
-	"description": "Yoga flow with hip openers and hamstring stretches."
+	"description": "Yoga flow with hip openers and hamstring stretches. Perform: 33 minutes 50 seconds of activity."
   },
   {
 	"day": 287,
 	"title": "Active Recovery",
-	"description": "Light stretching or a gentle walk."
+	"description": "Light stretching or a gentle walk. Perform: 28 minutes 55 seconds of activity."
   },
   {
 	"day": 288,
 	"title": "HIIT Session",
-	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x4 rounds."
+	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x rounds. Perform: 4 rounds of the given exercises."
   },
   {
 	"day": 289,
 	"title": "Plyometric Leg Day",
-	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops."
+	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops. Perform: 20 reps of jump squats, 20 reps of box jumps, 22 reps of lunges, 29 reps of calf hops."
   },
   {
 	"day": 290,
 	"title": "HIIT Upper Body",
-	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees."
+	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees. Perform: 17 reps of clapping pushups, 20 reps of tricep dips, 24 reps of shoulder taps, 19 reps of plank jack burpees."
   },
   {
 	"day": 291,
 	"title": "Cardio Intervals",
-	"description": "30s sprint in place, 30s walk x10 rounds."
+	"description": "Sprint in place and walk intervals. Perform: 7 rounds of the given exercises, 7 rounds of 165 seconds sprint and 165 seconds walk."
   },
   {
 	"day": 292,
 	"title": "Core & Balance",
-	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists."
+	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists. Perform: 97 seconds of single leg planks, 97 seconds of side planks, 29 reps of flutter kicks, 29 reps of russian twists."
   },
   {
 	"day": 293,
 	"title": "Yoga Flow",
-	"description": "Vinyasa sequence with sun salutations and deep stretching."
+	"description": "Vinyasa sequence with sun salutations and deep stretching. Perform: 39 minutes 25 seconds of activity."
   },
   {
 	"day": 294,
 	"title": "Rest Day",
-	"description": "Full rest or light walk."
+	"description": "Full rest or light walk. Perform: 29 minutes 30 seconds of activity."
   },
   {
 	"day": 295,
 	"title": "Circuit A",
-	"description": "3 rounds: 15 squats, 10 push-ups, 20 sit-ups, 15 lunges."
+	"description": "Rounds of squats, push-ups, sit-ups, lunges. Perform: 22 reps of squats, 19 reps of pushups, 24 reps of situps, 22 reps of lunges, 4 rounds of the given exercises."
   },
   {
 	"day": 296,
 	"title": "Circuit B",
-	"description": "3 rounds: 20 jumping jacks, 15 plank-to-push-up, 20 mountain climbers."
+	"description": "Rounds of jumping jacks, plank-to-push-up, mountain climbers. Perform: 29 reps of jumping jacks, 24 reps of plank to pushup, 29 reps of mountain climbers, 4 rounds of the given exercises."
   },
   {
 	"day": 297,
 	"title": "Circuit C",
-	"description": "3 rounds: 10 tricep dips, 15 glute bridges, 20 high knees."
+	"description": "Rounds of tricep dips, glute bridges, high knees. Perform: 22 reps of tricep dips, 29 reps of glute bridges, 109 seconds of high knees, 4 rounds of the given exercises."
   },
   {
 	"day": 298,
 	"title": "Circuit D",
-	"description": "3 rounds: 12 burpees, 20 calf raises, 15 bicycle crunches."
+	"description": "Rounds of burpees, calf raises, bicycle crunches. Perform: 22 reps of burpees, 34 reps of calf raises, 29 reps of bicycle crunches, 4 rounds of the given exercises."
   },
   {
 	"day": 299,
 	"title": "Circuit E",
-	"description": "3 rounds: 20-second side planks, 15 supermans, 20 Russian twists."
+	"description": "Rounds of side planks, supermans, Russian twists. Perform: 109 seconds of side planks, 29 reps of supermans, 34 reps of russian twists, 4 rounds of the given exercises."
   },
   {
 	"day": 300,
 	"title": "Stretch & Recover",
-	"description": "Full body stretching routine."
+	"description": "Full body stretching routine. Perform: 40 minutes 0 seconds of activity."
   },
   {
 	"day": 301,
 	"title": "Rest Day",
-	"description": "Light activity or rest."
+	"description": "Light activity or rest. Perform: 30 minutes 5 seconds of activity."
   },
   {
 	"day": 302,
 	"title": "Pilates Core",
-	"description": " Pilates 100s, roll-ups, and leg circles."
+	"description": "Pilates 100s, roll-ups, and leg circles. Perform: 110 seconds of pilates 100s, 20 reps of rollups, 25 reps of leg circles."
   },
   {
 	"day": 303,
 	"title": "Yoga Flow",
-	"description": "Hatha sequence focusing on flexibility."
+	"description": "Hatha sequence focusing on flexibility. Perform: 45 minutes 15 seconds of activity."
   },
   {
 	"day": 304,
 	"title": "Pilates Lower Body",
-	"description": "Side leg lifts, bridges, and donkey kicks."
+	"description": "Side leg lifts, bridges, and donkey kicks. Perform: 25 reps of side leg lifts, 25 reps of bridges, 30 reps of donkey kicks."
   },
   {
 	"day": 305,
 	"title": "Yoga Balance",
-	"description": "Tree pose, warrior III, and eagle pose."
+	"description": "Tree pose, warrior III, and eagle pose. Perform: 40 minutes 25 seconds of activity."
   },
   {
 	"day": 306,
 	"title": "Pilates Full Body",
-	"description": "Pilates push-ups, plank, and teaser prep."
+	"description": "Pilates push-ups, plank, and teaser prep. Perform: 20 reps of pilates pushups, 111 seconds of plank, 20 reps of teaser prep."
   },
   {
 	"day": 307,
 	"title": "Yoga Deep Stretch",
-	"description": "Long holds in hip and hamstring stretches."
+	"description": "Long holds in hip and hamstring stretches. Perform: 40 minutes 35 seconds of activity."
   },
   {
 	"day": 308,
 	"title": "Rest or Meditation",
-	"description": "Guided meditation or complete rest."
+	"description": "Guided meditation or complete rest. Perform: 35 minutes 40 seconds of activity."
   },
   {
 	"day": 309,
 	"title": "Dynamic Stretching",
-	"description": "Leg swings, arm circles, inchworms, and lunges with twist."
+	"description": "Leg swings, arm circles, inchworms, and lunges with twist. Perform: 25 reps of leg swings, 25 reps of arm circles, 20 reps of inchworms, 21 reps of lunges with twist."
   },
   {
 	"day": 310,
 	"title": "Core Focus",
-	"description": "Planks, dead bugs, and Superman holds."
+	"description": "Planks, dead bugs, and Superman holds. Perform: 113 seconds of plank, 25 reps of dead bugs, 108 seconds of superman holds."
   },
   {
 	"day": 311,
 	"title": "Static Stretching",
-	"description": "Hamstring, quad, calf, and shoulder stretches."
+	"description": "Hamstring, quad, calf, and shoulder stretches. Perform: 40 minutes 55 seconds of activity."
   },
   {
 	"day": 312,
 	"title": "Pilates Core",
-	"description": "Criss-cross, roll-ups, and scissor kicks."
+	"description": "Criss-cross, roll-ups, and scissor kicks. Perform: 25 reps of criss cross, 20 reps of rollups, 30 reps of scissor kicks."
   },
   {
 	"day": 313,
 	"title": "Yoga Flow",
-	"description": "Gentle sequence for full body flexibility."
+	"description": "Gentle sequence for full body flexibility. Perform: 41 minutes 5 seconds of activity."
   },
   {
 	"day": 314,
 	"title": "Light Cardio",
-	"description": "Brisk walk or easy jog 30 minutes."
+	"description": "Brisk walk or easy jog. Perform: 46 minutes 10 seconds of activity."
   },
   {
 	"day": 315,
 	"title": "Rest Day",
-	"description": "Recover and hydrate."
+	"description": "Recover and hydrate. Perform: 31 minutes 15 seconds of activity."
   },
   {
 	"day": 316,
 	"title": "Full Body Strength",
-	"description": "Bodyweight squats, push-ups, lunges, and plank holds."
+	"description": "Bodyweight squats, push-ups, lunges, and plank holds. Perform: 20 reps of squats, 18 reps of pushups, 19 reps of lunges, 104 seconds of plank."
   },
   {
 	"day": 317,
 	"title": "Cardio Endurance",
-	"description": "30-minute brisk walk or jog, high knees, and jumping jacks."
+	"description": "Brisk walk or jog, high knees, and jumping jacks. Perform: 110 seconds of high knees, 25 reps of jumping jacks, 36 minutes 25 seconds of activity."
   },
   {
 	"day": 318,
 	"title": "Lower Body Strength",
-	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits."
+	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits. Perform: 19 reps of split squats, 23 reps of glute bridges, 30 reps of calf raises, 110 seconds of wall sit."
   },
   {
 	"day": 319,
 	"title": "Upper Body Strength",
-	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps."
+	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps. Perform: 18 reps of diamond pushups, 20 reps of tricep dips, 20 reps of incline pushups, 25 reps of shoulder taps."
   },
   {
 	"day": 320,
 	"title": "Core Blast",
-	"description": "Plank variations, bicycle crunches, and leg raises."
+	"description": "Plank variations, bicycle crunches, and leg raises. Perform: 111 seconds of plank, 26 reps of bicycle crunches, 24 reps of leg raises."
   },
   {
 	"day": 321,
 	"title": "Mobility & Flexibility",
-	"description": "Yoga flow with hip openers and hamstring stretches."
+	"description": "Yoga flow with hip openers and hamstring stretches. Perform: 36 minutes 45 seconds of activity."
   },
   {
 	"day": 322,
 	"title": "Active Recovery",
-	"description": "Light stretching or a gentle walk."
+	"description": "Light stretching or a gentle walk. Perform: 31 minutes 50 seconds of activity."
   },
   {
 	"day": 323,
 	"title": "HIIT Session",
-	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x4 rounds."
+	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x rounds. Perform: 5 rounds of the given exercises."
   },
   {
 	"day": 324,
 	"title": "Plyometric Leg Day",
-	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops."
+	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops. Perform: 22 reps of jump squats, 22 reps of box jumps, 24 reps of lunges, 31 reps of calf hops."
   },
   {
 	"day": 325,
 	"title": "HIIT Upper Body",
-	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees."
+	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees. Perform: 19 reps of clapping pushups, 22 reps of tricep dips, 26 reps of shoulder taps, 21 reps of plank jack burpees."
   },
   {
 	"day": 326,
 	"title": "Cardio Intervals",
-	"description": "30s sprint in place, 30s walk x10 rounds."
+	"description": "Sprint in place and walk intervals. Perform: 8 rounds of the given exercises, 8 rounds of 183 seconds sprint and 183 seconds walk."
   },
   {
 	"day": 327,
 	"title": "Core & Balance",
-	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists."
+	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists. Perform: 108 seconds of single leg planks, 108 seconds of side planks, 31 reps of flutter kicks, 31 reps of russian twists."
   },
   {
 	"day": 328,
 	"title": "Yoga Flow",
-	"description": "Vinyasa sequence with sun salutations and deep stretching."
+	"description": "Vinyasa sequence with sun salutations and deep stretching. Perform: 42 minutes 20 seconds of activity."
   },
   {
 	"day": 329,
 	"title": "Rest Day",
-	"description": "Full rest or light walk."
+	"description": "Full rest or light walk. Perform: 32 minutes 25 seconds of activity."
   },
   {
 	"day": 330,
 	"title": "Circuit A",
-	"description": "3 rounds: 15 squats, 10 push-ups, 20 sit-ups, 15 lunges."
+	"description": "Rounds of squats, push-ups, sit-ups, lunges. Perform: 24 reps of squats, 21 reps of pushups, 26 reps of situps, 24 reps of lunges, 5 rounds of the given exercises."
   },
   {
 	"day": 331,
 	"title": "Circuit B",
-	"description": "3 rounds: 20 jumping jacks, 15 plank-to-push-up, 20 mountain climbers."
+	"description": "Rounds of jumping jacks, plank-to-push-up, mountain climbers. Perform: 31 reps of jumping jacks, 26 reps of plank to pushup, 31 reps of mountain climbers, 5 rounds of the given exercises."
   },
   {
 	"day": 332,
 	"title": "Circuit C",
-	"description": "3 rounds: 10 tricep dips, 15 glute bridges, 20 high knees."
+	"description": "Rounds of tricep dips, glute bridges, high knees. Perform: 24 reps of tricep dips, 31 reps of glute bridges, 119 seconds of high knees, 5 rounds of the given exercises."
   },
   {
 	"day": 333,
 	"title": "Circuit D",
-	"description": "3 rounds: 12 burpees, 20 calf raises, 15 bicycle crunches."
+	"description": "Rounds of burpees, calf raises, bicycle crunches. Perform: 24 reps of burpees, 36 reps of calf raises, 31 reps of bicycle crunches, 5 rounds of the given exercises."
   },
   {
 	"day": 334,
 	"title": "Circuit E",
-	"description": "3 rounds: 20-second side planks, 15 supermans, 20 Russian twists."
+	"description": "Rounds of side planks, supermans, Russian twists. Perform: 120 seconds of side planks, 31 reps of supermans, 36 reps of russian twists, 5 rounds of the given exercises."
   },
   {
 	"day": 335,
 	"title": "Stretch & Recover",
-	"description": "Full body stretching routine."
+	"description": "Full body stretching routine. Perform: 42 minutes 55 seconds of activity."
   },
   {
 	"day": 336,
 	"title": "Rest Day",
-	"description": "Light activity or rest."
+	"description": "Light activity or rest. Perform: 33 minutes 0 seconds of activity."
   },
   {
 	"day": 337,
 	"title": "Pilates Core",
-	"description": " Pilates 100s, roll-ups, and leg circles."
+	"description": "Pilates 100s, roll-ups, and leg circles. Perform: 121 seconds of pilates 100s, 21 reps of rollups, 26 reps of leg circles."
   },
   {
 	"day": 338,
 	"title": "Yoga Flow",
-	"description": "Hatha sequence focusing on flexibility."
+	"description": "Hatha sequence focusing on flexibility. Perform: 48 minutes 10 seconds of activity."
   },
   {
 	"day": 339,
 	"title": "Pilates Lower Body",
-	"description": "Side leg lifts, bridges, and donkey kicks."
+	"description": "Side leg lifts, bridges, and donkey kicks. Perform: 26 reps of side leg lifts, 26 reps of bridges, 31 reps of donkey kicks."
   },
   {
 	"day": 340,
 	"title": "Yoga Balance",
-	"description": "Tree pose, warrior III, and eagle pose."
+	"description": "Tree pose, warrior III, and eagle pose. Perform: 43 minutes 20 seconds of activity."
   },
   {
 	"day": 341,
 	"title": "Pilates Full Body",
-	"description": "Pilates push-ups, plank, and teaser prep."
+	"description": "Pilates push-ups, plank, and teaser prep. Perform: 22 reps of pilates pushups, 122 seconds of plank, 22 reps of teaser prep."
   },
   {
 	"day": 342,
 	"title": "Yoga Deep Stretch",
-	"description": "Long holds in hip and hamstring stretches."
+	"description": "Long holds in hip and hamstring stretches. Perform: 43 minutes 30 seconds of activity."
   },
   {
 	"day": 343,
 	"title": "Rest or Meditation",
-	"description": "Guided meditation or complete rest."
+	"description": "Guided meditation or complete rest. Perform: 38 minutes 35 seconds of activity."
   },
   {
 	"day": 344,
 	"title": "Dynamic Stretching",
-	"description": "Leg swings, arm circles, inchworms, and lunges with twist."
+	"description": "Leg swings, arm circles, inchworms, and lunges with twist. Perform: 27 reps of leg swings, 27 reps of arm circles, 22 reps of inchworms, 23 reps of lunges with twist."
   },
   {
 	"day": 345,
 	"title": "Core Focus",
-	"description": "Planks, dead bugs, and Superman holds."
+	"description": "Planks, dead bugs, and Superman holds. Perform: 123 seconds of plank, 27 reps of dead bugs, 118 seconds of superman holds."
   },
   {
 	"day": 346,
 	"title": "Static Stretching",
-	"description": "Hamstring, quad, calf, and shoulder stretches."
+	"description": "Hamstring, quad, calf, and shoulder stretches. Perform: 43 minutes 50 seconds of activity."
   },
   {
 	"day": 347,
 	"title": "Pilates Core",
-	"description": "Criss-cross, roll-ups, and scissor kicks."
+	"description": "Criss-cross, roll-ups, and scissor kicks. Perform: 27 reps of criss cross, 22 reps of rollups, 32 reps of scissor kicks."
   },
   {
 	"day": 348,
 	"title": "Yoga Flow",
-	"description": "Gentle sequence for full body flexibility."
+	"description": "Gentle sequence for full body flexibility. Perform: 44 minutes 0 seconds of activity."
   },
   {
 	"day": 349,
 	"title": "Light Cardio",
-	"description": "Brisk walk or easy jog 30 minutes."
+	"description": "Brisk walk or easy jog. Perform: 49 minutes 5 seconds of activity."
   },
   {
 	"day": 350,
 	"title": "Rest Day",
-	"description": "Recover and hydrate."
+	"description": "Recover and hydrate. Perform: 34 minutes 10 seconds of activity."
   },
   {
 	"day": 351,
 	"title": "Full Body Strength",
-	"description": "Bodyweight squats, push-ups, lunges, and plank holds."
+	"description": "Bodyweight squats, push-ups, lunges, and plank holds. Perform: 22 reps of squats, 20 reps of pushups, 21 reps of lunges, 115 seconds of plank."
   },
   {
 	"day": 352,
 	"title": "Cardio Endurance",
-	"description": "30-minute brisk walk or jog, high knees, and jumping jacks."
+	"description": "Brisk walk or jog, high knees, and jumping jacks. Perform: 120 seconds of high knees, 27 reps of jumping jacks, 39 minutes 20 seconds of activity."
   },
   {
 	"day": 353,
 	"title": "Lower Body Strength",
-	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits."
+	"description": "Bulgarian split squats, glute bridges, calf raises, and wall sits. Perform: 21 reps of split squats, 25 reps of glute bridges, 32 reps of calf raises, 120 seconds of wall sit."
   },
   {
 	"day": 354,
 	"title": "Upper Body Strength",
-	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps."
+	"description": "Diamond push-ups, tricep dips, incline push-ups, and shoulder taps. Perform: 20 reps of diamond pushups, 22 reps of tricep dips, 22 reps of incline pushups, 27 reps of shoulder taps."
   },
   {
 	"day": 355,
 	"title": "Core Blast",
-	"description": "Plank variations, bicycle crunches, and leg raises."
+	"description": "Plank variations, bicycle crunches, and leg raises. Perform: 121 seconds of plank, 27 reps of bicycle crunches, 25 reps of leg raises."
   },
   {
 	"day": 356,
 	"title": "Mobility & Flexibility",
-	"description": "Yoga flow with hip openers and hamstring stretches."
+	"description": "Yoga flow with hip openers and hamstring stretches. Perform: 39 minutes 40 seconds of activity."
   },
   {
 	"day": 357,
 	"title": "Active Recovery",
-	"description": "Light stretching or a gentle walk."
+	"description": "Light stretching or a gentle walk. Perform: 34 minutes 45 seconds of activity."
   },
   {
 	"day": 358,
 	"title": "HIIT Session",
-	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x4 rounds."
+	"description": "20s work/10s rest of burpees, mountain climbers, squat jumps, and push-ups x rounds. Perform: 5 rounds of the given exercises."
   },
   {
 	"day": 359,
 	"title": "Plyometric Leg Day",
-	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops."
+	"description": "Jump squats, box jumps (or step-ups), lunges, and calf hops. Perform: 23 reps of jump squats, 23 reps of box jumps, 25 reps of lunges, 32 reps of calf hops."
   },
   {
 	"day": 360,
 	"title": "HIIT Upper Body",
-	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees."
+	"description": "Clapping push-ups, tricep dips, shoulder taps, and plank jack burpees. Perform: 21 reps of clapping pushups, 24 reps of tricep dips, 28 reps of shoulder taps, 23 reps of plank jack burpees."
   },
   {
 	"day": 361,
 	"title": "Cardio Intervals",
-	"description": "30s sprint in place, 30s walk x10 rounds."
+	"description": "Sprint in place and walk intervals. Perform: 8 rounds of the given exercises, 8 rounds of 200 seconds sprint and 200 seconds walk."
   },
   {
 	"day": 362,
 	"title": "Core & Balance",
-	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists."
+	"description": "Single-leg planks, side planks, flutter kicks, and Russian twists. Perform: 118 seconds of single leg planks, 118 seconds of side planks, 33 reps of flutter kicks, 33 reps of russian twists."
   },
   {
 	"day": 363,
 	"title": "Yoga Flow",
-	"description": "Vinyasa sequence with sun salutations and deep stretching."
+	"description": "Vinyasa sequence with sun salutations and deep stretching. Perform: 45 minutes 15 seconds of activity."
   },
   {
 	"day": 364,
 	"title": "Rest Day",
-	"description": "Full rest or light walk."
+	"description": "Full rest or light walk. Perform: 35 minutes 20 seconds of activity."
   },
   {
 	"day": 365,
 	"title": "Circuit A",
-	"description": "3 rounds: 15 squats, 10 push-ups, 20 sit-ups, 15 lunges."
+	"description": "Rounds of squats, push-ups, sit-ups, lunges. Perform: 26 reps of squats, 23 reps of pushups, 28 reps of situps, 26 reps of lunges, 5 rounds of the given exercises."
   }
 ]
